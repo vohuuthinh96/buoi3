@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
         }else {
             errror.setVisibility(View.VISIBLE);
             errror.setText(" ten tai khoan hgoac mat khau sai");
-            //thinhvh
             //thinhvh commit 2
         }
     }
